@@ -1,6 +1,6 @@
 #这块代码是作为上传github配置使用的
 
-ame: Pytest API Tests
+name: Pytest API Tests
 
 on:
   push:
