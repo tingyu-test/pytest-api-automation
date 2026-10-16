@@ -1,0 +1,7 @@
+#该文件是作为github配置使用的，目的是方式.vevn不需要的文件上传到github上
+
+__pycache__/
+.venv/
+.pytest_cache/
+reports/
+.idea/
