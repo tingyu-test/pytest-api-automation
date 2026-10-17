@@ -1,0 +1,2 @@
+INFO     root:test_runner.py:33 0. 用例ID:4 模块:用户管理 场景:新增成功 标题:添加一个用户，添加成功
+INFO     root:analyse_case.py:28 1. 解析请求数据，请求数据为:{'method': 'post', 'url': 'http://127.0.0.1:8888/api/private/v1/users', 'headers': {'Authorization': ''}, 'params': None, 'data': {'username': 'jay', 'password': '123456'}, 'json': None, 'files': None}

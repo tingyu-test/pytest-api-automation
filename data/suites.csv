@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sat Oct 17 03:43:28 UTC 2026","Sat Oct 17 03:43:28 UTC 2026","2","testcases","test_runner","TestRunner","","","ID:3-查询用户数据列表成功",""
+"broken","Sat Oct 17 03:43:28 UTC 2026","Sat Oct 17 03:43:28 UTC 2026","3","testcases","test_runner","TestRunner","","","ID:5-修改用户状态，修改成功",""
+"broken","Sat Oct 17 03:43:28 UTC 2026","Sat Oct 17 03:43:28 UTC 2026","3","testcases","test_runner","TestRunner","","","ID:4-添加一个用户，添加成功",""
+"broken","Sat Oct 17 03:43:27 UTC 2026","Sat Oct 17 03:43:27 UTC 2026","44","testcases","test_runner","TestRunner","","","ID:2-未登录状态，查询用户列表失败",""
