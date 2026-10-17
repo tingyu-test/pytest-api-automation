@@ -1,5 +1,7 @@
 # Pytest 接口自动化测试项目
 
+🔗 [点击查看在线 Allure 测试报告](https://tingyu1015.github.io/jkzdh_1016/)
+
 基于 Python + Pytest + Requests 搭建的接口自动化测试框架。
 
 ## 📁 项目结构
