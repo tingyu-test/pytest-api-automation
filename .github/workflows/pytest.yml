@@ -51,3 +51,11 @@ jobs:
         with:
           name: allure-report
           path: reports/allure-report
+
+      - name: 部署 Allure 报告到 GitHub Pages
+        if: always() # 即使测试失败也部署，方便查看失败原因
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./reports/allure-report
+          publish_branch: gh-pages
